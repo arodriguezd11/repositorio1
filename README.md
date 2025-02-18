@@ -1,2 +1,2 @@
 # repositorio1
-Primer repos
+Primer repositorio descentralizado Línea añadida desde GIT.
